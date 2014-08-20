@@ -1,0 +1,25 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"gold",
+  "location":"Houston",
+  "difficulty":"hard",
+  "photo":[],
+  "hint":"Do this, not that.."
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"kush",
+  "location":"Egypt",
+  "difficulty":"easy",
+  "photo":[],
+  "hint":"Do this, not that.."
+}
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"diamonds",
+  "location":"South Africa",
+  "difficulty":"medium",
+  "photo":[],
+  "hint":"Do this, not that.."
+}
+
